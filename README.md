@@ -29,3 +29,10 @@ Later uploads could also potentially allow the user to prequalify by selecting t
 
 
 I can use what we discussed in class today regarding join statements to help keep information for movies 
+
+
+
+
+
+
+2/26 started project.
