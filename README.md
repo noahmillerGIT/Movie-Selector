@@ -12,7 +12,7 @@ The user would them simply open the app and answer a series of questions.
 
 
 
-Example "Would you rather watch a Comedy or Drama?"
+Example "Would you rather watch a Comedy or Drama?"  
 
 
 
