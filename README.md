@@ -24,7 +24,7 @@ Through a series of questions the list could be shortened to just a handful or a
 
 
 
-Later uploads could also potentially allow the user to prequalify by selecting the streaming service they want to use. It could also grow to include tv series if user is interested on getting hooked on new show.
+Later uploads could also potentially allow the user to prequalify by selecting the streaming service they want to use. It could also grow to include tv series if user is interested on getting hooked on new show.  
 
 
 
