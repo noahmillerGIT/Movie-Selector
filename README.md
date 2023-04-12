@@ -36,3 +36,5 @@ I can use what we discussed in class today regarding join statements to help kee
 
 
 3/9 started project...
+
+4/11 made some tweaks to layout
